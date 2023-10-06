@@ -1,3 +1,5 @@
+// insta love button
+
 var con=document.querySelector("#container")
 var love=document.querySelector("i")
 

@@ -1,3 +1,5 @@
+// proceed in subject with same button
+
 // var istatus=document.querySelector("h5")
 
 // var addFriend=document.querySelector("#add")
